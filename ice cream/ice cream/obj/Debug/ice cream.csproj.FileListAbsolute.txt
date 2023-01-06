@@ -1,0 +1,30 @@
+C:\Users\jerry\source\repos\ice cream\ice cream\bin\Debug\ice cream.exe.config
+C:\Users\jerry\source\repos\ice cream\ice cream\bin\Debug\ice cream.exe
+C:\Users\jerry\source\repos\ice cream\ice cream\bin\Debug\ice cream.pdb
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice cream.csprojAssemblyReference.cache
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice_cream.Form1.resources
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice_cream.Properties.Resources.resources
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice cream.csproj.GenerateResource.cache
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice cream.csproj.CoreCompileInputs.cache
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice cream.exe
+C:\Users\jerry\source\repos\ice cream\ice cream\obj\Debug\ice cream.pdb
+D:\ice cream\ice cream\bin\Debug\ice cream.exe.config
+D:\ice cream\ice cream\bin\Debug\ice cream.exe
+D:\ice cream\ice cream\bin\Debug\ice cream.pdb
+D:\ice cream\ice cream\obj\Debug\ice cream.csprojAssemblyReference.cache
+D:\ice cream\ice cream\obj\Debug\ice_cream.Form1.resources
+D:\ice cream\ice cream\obj\Debug\ice_cream.Properties.Resources.resources
+D:\ice cream\ice cream\obj\Debug\ice cream.csproj.GenerateResource.cache
+D:\ice cream\ice cream\obj\Debug\ice cream.csproj.CoreCompileInputs.cache
+D:\ice cream\ice cream\obj\Debug\ice cream.exe
+D:\ice cream\ice cream\obj\Debug\ice cream.pdb
+G:\ice cream\ice cream\bin\Debug\ice cream.exe.config
+G:\ice cream\ice cream\bin\Debug\ice cream.exe
+G:\ice cream\ice cream\bin\Debug\ice cream.pdb
+G:\ice cream\ice cream\obj\Debug\ice cream.csprojAssemblyReference.cache
+G:\ice cream\ice cream\obj\Debug\ice_cream.Form1.resources
+G:\ice cream\ice cream\obj\Debug\ice_cream.Properties.Resources.resources
+G:\ice cream\ice cream\obj\Debug\ice cream.csproj.GenerateResource.cache
+G:\ice cream\ice cream\obj\Debug\ice cream.csproj.CoreCompileInputs.cache
+G:\ice cream\ice cream\obj\Debug\ice cream.exe
+G:\ice cream\ice cream\obj\Debug\ice cream.pdb

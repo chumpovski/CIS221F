@@ -1,0 +1,10 @@
+G:\Project 5\Project 5\bin\Debug\Project 5.exe.config
+G:\Project 5\Project 5\bin\Debug\Project 5.exe
+G:\Project 5\Project 5\bin\Debug\Project 5.pdb
+G:\Project 5\Project 5\obj\Debug\Project 5.csprojAssemblyReference.cache
+G:\Project 5\Project 5\obj\Debug\Project_5.Form1.resources
+G:\Project 5\Project 5\obj\Debug\Project_5.Properties.Resources.resources
+G:\Project 5\Project 5\obj\Debug\Project 5.csproj.GenerateResource.cache
+G:\Project 5\Project 5\obj\Debug\Project 5.csproj.CoreCompileInputs.cache
+G:\Project 5\Project 5\obj\Debug\Project 5.exe
+G:\Project 5\Project 5\obj\Debug\Project 5.pdb
